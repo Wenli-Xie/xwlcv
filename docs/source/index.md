@@ -1,5 +1,12 @@
 # Wenli Xie's Homepage (谢文丽)
 
+-----
+
+<div style="text-align: left;">
+    <div style="display: inline-block;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida Calligraphy&size=16&pause=1000&random=false&width=435&lines=Welcome+to+my+world!&color=IndianRed" alt="Typing SVG" /></a> </div></div>
+
+
 ---
 
 <div style="text-align: center;">
